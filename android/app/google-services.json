@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "67598360839",
+    "project_id": "p103-181810"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67598360839:android:a00f6301cfe944a0",
+        "android_client_info": {
+          "package_name": "com.rnexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "67598360839-7ibna4fgtf81ldl35d6s5dkp7pnbl5hg.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "67598360839-d79ojt9gvjt1kcudslp9hn0hlte6jkiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnexample",
+            "certificate_hash": "8d213446cc5ad7c5fd25fef2873965b727e4bca2"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI0ic3s7_72_U1oF1cfOCFKXGX_Fxk4r8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
